@@ -1,3 +1,4 @@
+![EMG System](docs/emg_readme_banner_v2.png)
 # Real-Time Muscle Fatigue Detection using EMG Sensor
 
 **Diploma Thesis — Universitatea Tehnică „Gheorghe Asachi" din Iași**  
