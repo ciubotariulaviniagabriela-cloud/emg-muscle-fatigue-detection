@@ -6,7 +6,7 @@
 **Author: Ciubotariu Lavinia-Gabriela**  
 **Scientific Coordinator: Șl.dr.ing. Cojocaru Victor**
 
----![Uploading IMG_0012.JPG…]()
+
 
 
 ## Overview
